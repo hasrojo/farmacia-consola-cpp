@@ -1,8 +1,8 @@
-# Proyecto 2 - Sistema de una farmacia (C++)
+# Sistema de farmacia en C++ (Consola)
 
-Proyecto universitario de consola desarrollado en C++ para la asignatura **Introduccion a la programacion 00831** de la **Universidad Estatal a Distancia (UNED)**.
+Aplicacion de consola desarrollada en C++ para gestionar productos, asociaciones y recetas dentro de un sistema basico de farmacia.
 
-Este repositorio conserva el proyecto como evidencia academica de autoria. Los ajustes realizados para publicarlo en GitHub se limitaron a la organizacion del repositorio y a la exclusion de archivos generados o de apoyo que no aportan al codigo fuente.
+Este repositorio conserva el proyecto como evidencia de autoria dentro de mi portafolio personal. Los ajustes realizados para publicarlo en GitHub se limitaron a la organizacion del repositorio y a la exclusion de archivos generados o de apoyo que no aportan al codigo fuente.
 
 ## Autor
 
@@ -49,5 +49,6 @@ Nota: el codigo utiliza `windows.h` y comandos de consola como `cls` y `pause`, 
 
 ## Notas
 
-- Este repositorio se publica con fines de portafolio academico.
+- Este repositorio se publica con fines de portafolio personal.
+- El proyecto fue desarrollado originalmente en contexto academico.
 - Se mantienen nombres, estructura y estilo originales del proyecto como parte de la evidencia del trabajo realizado.
