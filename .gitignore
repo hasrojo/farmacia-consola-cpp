@@ -1,0 +1,10 @@
+bin/
+obj/
+
+*.exe
+*.o
+*.depend
+*.layout
+*.rar
+
+Proyecto 2_I_Cuatri_2024.pdf

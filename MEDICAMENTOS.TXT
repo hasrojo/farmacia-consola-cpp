@@ -1,0 +1,10 @@
+1 yaz 99
+2 betametasona 200
+3 peptobismol 35
+4 melatonina 24
+5 zepol 45
+6 dexametasona 50
+7 clorfeniramina 300
+8 gasa 500
+9 penicilina 40
+10 aplicadores 45
