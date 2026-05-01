@@ -36,14 +36,14 @@ Nota: el codigo utiliza `windows.h` y comandos de consola como `cls` y `pause`, 
 ## Archivos principales
 
 - `main.cpp`: logica principal del programa
-- `HectorAndresArrietaSancho_proyecto2.cbp`: archivo del proyecto para Code::Blocks
+- `farmacia-consola-cpp.cbp`: archivo del proyecto para Code::Blocks
 - `MEDICAMENTOS.TXT`, `CLAVES.TXT`, `RECETA.TXT`: datos de ejemplo usados por el programa
 
 ## Como ejecutar
 
 ### Opcion recomendada
 
-1. Abrir `HectorAndresArrietaSancho_proyecto2.cbp` en Code::Blocks.
+1. Abrir `farmacia-consola-cpp.cbp` en Code::Blocks.
 2. Compilar y ejecutar el proyecto desde el IDE.
 3. Mantener los archivos `.TXT` en la misma carpeta del ejecutable o del proyecto para que el programa pueda leerlos correctamente.
 
